@@ -1,0 +1,464 @@
+Uri: https://bywet.com/
+File Name: C:\Downloaded Web Sites\bywet.com\index.htm
+Content Type: text/html
+
+Uri: https://bywet.com/assets/images/favicon.png
+File Name: C:\Downloaded Web Sites\bywet.com\assets\images\favicon.png
+Content Type: image/png
+
+Uri: https://bywet.com/assets/css/app.min.css
+File Name: C:\Downloaded Web Sites\bywet.com\assets\css\app.min.css
+Content Type: text/css
+
+Uri: https://twitter.com/BywetN
+File Name: C:\Downloaded Web Sites\bywet.com\BywetN.html
+Content Type: text/html
+
+Uri: https://bywet.com/register
+File Name: C:\Downloaded Web Sites\bywet.com\register.html
+Content Type: text/html
+
+Uri: https://bywet.com/login
+File Name: C:\Downloaded Web Sites\bywet.com\login.html
+Content Type: text/html
+
+Uri: https://bywet.com/?page=2
+File Name: C:\Downloaded Web Sites\bywet.com\index-1.htm
+Content Type: text/html
+
+Uri: https://bywet.com/about
+File Name: C:\Downloaded Web Sites\bywet.com\about.html
+Content Type: text/html
+
+Uri: https://bywet.com/policy
+File Name: C:\Downloaded Web Sites\bywet.com\policy.html
+Content Type: text/html
+
+Uri: https://bywet.com/terms
+File Name: C:\Downloaded Web Sites\bywet.com\terms.html
+Content Type: text/html
+
+Uri: https://bywet.com/oferta
+File Name: C:\Downloaded Web Sites\bywet.com\oferta.html
+Content Type: text/html
+
+Uri: https://bywet.com/rekvizits
+File Name: C:\Downloaded Web Sites\bywet.com\rekvizits.html
+Content Type: text/html
+
+Uri: https://bywet.com/payments
+File Name: C:\Downloaded Web Sites\bywet.com\payments.html
+Content Type: text/html
+
+Uri: https://bywet.com/contacts
+File Name: C:\Downloaded Web Sites\bywet.com\contacts.html
+Content Type: text/html
+
+Uri: https://bywet.com/news/followers
+File Name: C:\Downloaded Web Sites\bywet.com\news\followers.html
+Content Type: text/html
+
+Uri: https://bywet.com/news/activecanal
+File Name: C:\Downloaded Web Sites\bywet.com\news\activecanal.html
+Content Type: text/html
+
+Uri: https://bywet.com/news/stylepost
+File Name: C:\Downloaded Web Sites\bywet.com\news\stylepost.html
+Content Type: text/html
+
+Uri: https://bywet.com/news/wrtiteabout
+File Name: C:\Downloaded Web Sites\bywet.com\news\wrtiteabout.html
+Content Type: text/html
+
+Uri: https://bywet.com/news/greeting
+File Name: C:\Downloaded Web Sites\bywet.com\news\greeting.html
+Content Type: text/html
+
+Uri: https://bywet.com/news/subscribers
+File Name: C:\Downloaded Web Sites\bywet.com\news\subscribers.html
+Content Type: text/html
+
+Uri: https://bywet.com/news/kak-sozdat-svoi-imidzh
+File Name: C:\Downloaded Web Sites\bywet.com\news\kak-sozdat-svoi-imidzh.html
+Content Type: text/html
+
+Uri: https://bywet.com/news/chto-delat-esli-proishodit-bolshoe-kolichestvo-otpisok
+File Name: C:\Downloaded Web Sites\bywet.com\news\chto-delat-esli-proishodit-bolshoe-kolichestvo-otpisok.html
+Content Type: text/html
+
+Uri: https://bywet.com/news/kak-soobshchit-podischikam-ob-otpuske
+File Name: C:\Downloaded Web Sites\bywet.com\news\kak-soobshchit-podischikam-ob-otpuske.html
+Content Type: text/html
+
+Uri: https://bywet.com/news/kak-spravitsa-s-heitom-so-storony-podpischikov
+File Name: C:\Downloaded Web Sites\bywet.com\news\kak-spravitsa-s-heitom-so-storony-podpischikov.html
+Content Type: text/html
+
+Uri: https://bywet.com/news/kak-prodavat-reklamu
+File Name: C:\Downloaded Web Sites\bywet.com\news\kak-prodavat-reklamu.html
+Content Type: text/html
+
+Uri: https://bywet.com/news/dorogie-druzya
+File Name: C:\Downloaded Web Sites\bywet.com\news\dorogie-druzya.html
+Content Type: text/html
+
+Uri: https://bywet.com/news/kak-sozdat-kanal
+File Name: C:\Downloaded Web Sites\bywet.com\news\kak-sozdat-kanal.html
+Content Type: text/html
+
+Uri: https://bywet.com/bywet.png
+File Name: C:\Downloaded Web Sites\bywet.com\bywet.png
+Content Type: image/png
+
+Uri: https://bywet.com/storage/noavatar.png
+File Name: C:\Downloaded Web Sites\bywet.com\storage\noavatar.png
+Content Type: image/png
+
+Uri: https://bywet.com/assets/images/icon-shining.png
+File Name: C:\Downloaded Web Sites\bywet.com\assets\images\icon-shining.png
+Content Type: image/png
+
+Uri: https://bywet.com/assets/images/icon-shining-2.png
+File Name: C:\Downloaded Web Sites\bywet.com\assets\images\icon-shining-2.png
+Content Type: image/png
+
+Uri: https://bywet.com/assets/images/icon-star.png
+File Name: C:\Downloaded Web Sites\bywet.com\assets\images\icon-star.png
+Content Type: image/png
+
+Uri: https://bywet.com/assets/images/icon-moon-2.png
+File Name: C:\Downloaded Web Sites\bywet.com\assets\images\icon-moon-2.png
+Content Type: image/png
+
+Uri: https://bywet.com/assets/images/icon-moon-3.png
+File Name: C:\Downloaded Web Sites\bywet.com\assets\images\icon-moon-3.png
+Content Type: image/png
+
+Uri: https://bywet.com/storage/u_267/ddc8e6cc97aa94fd6bdceb1a6e0b2174.jpeg
+File Name: C:\Downloaded Web Sites\bywet.com\storage\u_267\ddc8e6cc97aa94fd6bdceb1a6e0b2174.jpeg
+Content Type: image/jpeg
+
+Uri: https://bywet.com/storage/u_248/8bcc9644ba2aeb6f8ef242236b64eb65.png
+File Name: C:\Downloaded Web Sites\bywet.com\storage\u_248\8bcc9644ba2aeb6f8ef242236b64eb65.png
+Content Type: image/png
+
+Uri: https://bywet.com/storage/u_235/d8d718b3ff7e666fc7229648bccc2a81.jpeg
+File Name: C:\Downloaded Web Sites\bywet.com\storage\u_235\d8d718b3ff7e666fc7229648bccc2a81.jpeg
+Content Type: image/jpeg
+
+Uri: https://bywet.com/storage/u_53/2129a2f160cff70464a40631bde5a6f8.jpeg
+File Name: C:\Downloaded Web Sites\bywet.com\storage\u_53\2129a2f160cff70464a40631bde5a6f8.jpeg
+Content Type: image/jpeg
+
+Uri: https://bywet.com/images/payments/logo3h.png
+File Name: C:\Downloaded Web Sites\bywet.com\images\payments\logo3h.png
+Content Type: image/png
+
+Uri: https://bywet.com/assets/js/build.min.js
+File Name: C:\Downloaded Web Sites\bywet.com\assets\js\build.min.js
+Content Type: application/javascript
+
+Uri: https://code.jivosite.com/widget/ZP0Ma3AR25
+File Name: C:\Downloaded Web Sites\bywet.com\widget\ZP0Ma3AR25.js
+Content Type: application/javascript
+
+Uri: https://bywet.com/assets/webfonts/fa-brands-400.eot
+File Name: C:\Downloaded Web Sites\bywet.com\assets\webfonts\fa-brands-400.eot
+Content Type: application/vnd.ms-fontobject
+
+Uri: https://bywet.com/assets/webfonts/fa-brands-400.eot?
+File Name: C:\Downloaded Web Sites\bywet.com\assets\webfonts\fa-brands-400-1.eot
+Content Type: application/vnd.ms-fontobject
+
+Uri: https://bywet.com/assets/webfonts/fa-brands-400.woff2
+File Name: C:\Downloaded Web Sites\bywet.com\assets\webfonts\fa-brands-400.woff2
+Content Type: application/octet-stream
+
+Uri: https://bywet.com/assets/webfonts/fa-brands-400.woff
+File Name: C:\Downloaded Web Sites\bywet.com\assets\webfonts\fa-brands-400.woff
+Content Type: application/font-woff
+
+Uri: https://bywet.com/assets/webfonts/fa-brands-400.ttf
+File Name: C:\Downloaded Web Sites\bywet.com\assets\webfonts\fa-brands-400.ttf
+Content Type: application/octet-stream
+
+Uri: https://bywet.com/assets/webfonts/fa-brands-400.svg
+File Name: C:\Downloaded Web Sites\bywet.com\assets\webfonts\fa-brands-400.svg
+Content Type: image/svg+xml
+
+Uri: https://bywet.com/assets/webfonts/fa-regular-400.eot
+File Name: C:\Downloaded Web Sites\bywet.com\assets\webfonts\fa-regular-400.eot
+Content Type: application/vnd.ms-fontobject
+
+Uri: https://bywet.com/assets/webfonts/fa-regular-400.eot?
+File Name: C:\Downloaded Web Sites\bywet.com\assets\webfonts\fa-regular-400-1.eot
+Content Type: application/vnd.ms-fontobject
+
+Uri: https://bywet.com/assets/webfonts/fa-regular-400.woff2
+File Name: C:\Downloaded Web Sites\bywet.com\assets\webfonts\fa-regular-400.woff2
+Content Type: application/octet-stream
+
+Uri: https://bywet.com/assets/webfonts/fa-regular-400.woff
+File Name: C:\Downloaded Web Sites\bywet.com\assets\webfonts\fa-regular-400.woff
+Content Type: application/font-woff
+
+Uri: https://bywet.com/assets/webfonts/fa-regular-400.ttf
+File Name: C:\Downloaded Web Sites\bywet.com\assets\webfonts\fa-regular-400.ttf
+Content Type: application/octet-stream
+
+Uri: https://bywet.com/assets/webfonts/fa-regular-400.svg
+File Name: C:\Downloaded Web Sites\bywet.com\assets\webfonts\fa-regular-400.svg
+Content Type: image/svg+xml
+
+Uri: https://bywet.com/assets/webfonts/fa-solid-900.eot
+File Name: C:\Downloaded Web Sites\bywet.com\assets\webfonts\fa-solid-900.eot
+Content Type: application/vnd.ms-fontobject
+
+Uri: https://bywet.com/assets/webfonts/fa-solid-900.eot?
+File Name: C:\Downloaded Web Sites\bywet.com\assets\webfonts\fa-solid-900-1.eot
+Content Type: application/vnd.ms-fontobject
+
+Uri: https://bywet.com/assets/webfonts/fa-solid-900.woff2
+File Name: C:\Downloaded Web Sites\bywet.com\assets\webfonts\fa-solid-900.woff2
+Content Type: application/octet-stream
+
+Uri: https://bywet.com/assets/webfonts/fa-solid-900.woff
+File Name: C:\Downloaded Web Sites\bywet.com\assets\webfonts\fa-solid-900.woff
+Content Type: application/font-woff
+
+Uri: https://bywet.com/assets/webfonts/fa-solid-900.ttf
+File Name: C:\Downloaded Web Sites\bywet.com\assets\webfonts\fa-solid-900.ttf
+Content Type: application/octet-stream
+
+Uri: https://bywet.com/assets/webfonts/fa-solid-900.svg
+File Name: C:\Downloaded Web Sites\bywet.com\assets\webfonts\fa-solid-900.svg
+Content Type: image/svg+xml
+
+Uri: https://bywet.com/assets/images/loading.gif
+File Name: C:\Downloaded Web Sites\bywet.com\assets\images\loading.gif
+Content Type: image/gif
+
+Uri: https://bywet.com/assets/images/prev.png
+File Name: C:\Downloaded Web Sites\bywet.com\assets\images\prev.png
+Content Type: image/png
+
+Uri: https://bywet.com/assets/images/next.png
+File Name: C:\Downloaded Web Sites\bywet.com\assets\images\next.png
+Content Type: image/png
+
+Uri: https://bywet.com/assets/images/close.png
+File Name: C:\Downloaded Web Sites\bywet.com\assets\images\close.png
+Content Type: image/png
+
+Uri: https://fonts.gstatic.com/s/opensans/v17/mem5YaGs126MiZpBA-UN_r8OX-hpOqc.woff2
+File Name: C:\Downloaded Web Sites\bywet.com\s\opensans\v17\mem5YaGs126MiZpBA-UN_r8OX-hpOqc.woff2
+Content Type: font/woff2
+
+Uri: https://fonts.gstatic.com/s/opensans/v17/mem5YaGs126MiZpBA-UN_r8OVuhpOqc.woff2
+File Name: C:\Downloaded Web Sites\bywet.com\s\opensans\v17\mem5YaGs126MiZpBA-UN_r8OVuhpOqc.woff2
+Content Type: font/woff2
+
+Uri: https://fonts.gstatic.com/s/opensans/v17/mem5YaGs126MiZpBA-UN_r8OXuhpOqc.woff2
+File Name: C:\Downloaded Web Sites\bywet.com\s\opensans\v17\mem5YaGs126MiZpBA-UN_r8OXuhpOqc.woff2
+Content Type: font/woff2
+
+Uri: https://fonts.gstatic.com/s/opensans/v17/mem5YaGs126MiZpBA-UN_r8OUehpOqc.woff2
+File Name: C:\Downloaded Web Sites\bywet.com\s\opensans\v17\mem5YaGs126MiZpBA-UN_r8OUehpOqc.woff2
+Content Type: font/woff2
+
+Uri: https://fonts.gstatic.com/s/opensans/v17/mem5YaGs126MiZpBA-UN_r8OXehpOqc.woff2
+File Name: C:\Downloaded Web Sites\bywet.com\s\opensans\v17\mem5YaGs126MiZpBA-UN_r8OXehpOqc.woff2
+Content Type: font/woff2
+
+Uri: https://fonts.gstatic.com/s/opensans/v17/mem5YaGs126MiZpBA-UN_r8OXOhpOqc.woff2
+File Name: C:\Downloaded Web Sites\bywet.com\s\opensans\v17\mem5YaGs126MiZpBA-UN_r8OXOhpOqc.woff2
+Content Type: font/woff2
+
+Uri: https://fonts.gstatic.com/s/opensans/v17/mem5YaGs126MiZpBA-UN_r8OUuhp.woff2
+File Name: C:\Downloaded Web Sites\bywet.com\s\opensans\v17\mem5YaGs126MiZpBA-UN_r8OUuhp.woff2
+Content Type: font/woff2
+
+Uri: https://fonts.gstatic.com/s/opensans/v17/mem8YaGs126MiZpBA-UFWJ0bbck.woff2
+File Name: C:\Downloaded Web Sites\bywet.com\s\opensans\v17\mem8YaGs126MiZpBA-UFWJ0bbck.woff2
+Content Type: font/woff2
+
+Uri: https://fonts.gstatic.com/s/opensans/v17/mem8YaGs126MiZpBA-UFUZ0bbck.woff2
+File Name: C:\Downloaded Web Sites\bywet.com\s\opensans\v17\mem8YaGs126MiZpBA-UFUZ0bbck.woff2
+Content Type: font/woff2
+
+Uri: https://fonts.gstatic.com/s/opensans/v17/mem8YaGs126MiZpBA-UFWZ0bbck.woff2
+File Name: C:\Downloaded Web Sites\bywet.com\s\opensans\v17\mem8YaGs126MiZpBA-UFWZ0bbck.woff2
+Content Type: font/woff2
+
+Uri: https://fonts.gstatic.com/s/opensans/v17/mem8YaGs126MiZpBA-UFVp0bbck.woff2
+File Name: C:\Downloaded Web Sites\bywet.com\s\opensans\v17\mem8YaGs126MiZpBA-UFVp0bbck.woff2
+Content Type: font/woff2
+
+Uri: https://fonts.gstatic.com/s/opensans/v17/mem8YaGs126MiZpBA-UFWp0bbck.woff2
+File Name: C:\Downloaded Web Sites\bywet.com\s\opensans\v17\mem8YaGs126MiZpBA-UFWp0bbck.woff2
+Content Type: font/woff2
+
+Uri: https://fonts.gstatic.com/s/opensans/v17/mem8YaGs126MiZpBA-UFW50bbck.woff2
+File Name: C:\Downloaded Web Sites\bywet.com\s\opensans\v17\mem8YaGs126MiZpBA-UFW50bbck.woff2
+Content Type: font/woff2
+
+Uri: https://fonts.gstatic.com/s/opensans/v17/mem8YaGs126MiZpBA-UFVZ0b.woff2
+File Name: C:\Downloaded Web Sites\bywet.com\s\opensans\v17\mem8YaGs126MiZpBA-UFVZ0b.woff2
+Content Type: font/woff2
+
+Uri: https://fonts.gstatic.com/s/opensans/v17/mem5YaGs126MiZpBA-UNirkOX-hpOqc.woff2
+File Name: C:\Downloaded Web Sites\bywet.com\s\opensans\v17\mem5YaGs126MiZpBA-UNirkOX-hpOqc.woff2
+Content Type: font/woff2
+
+Uri: https://fonts.gstatic.com/s/opensans/v17/mem5YaGs126MiZpBA-UNirkOVuhpOqc.woff2
+File Name: C:\Downloaded Web Sites\bywet.com\s\opensans\v17\mem5YaGs126MiZpBA-UNirkOVuhpOqc.woff2
+Content Type: font/woff2
+
+Uri: https://fonts.gstatic.com/s/opensans/v17/mem5YaGs126MiZpBA-UNirkOXuhpOqc.woff2
+File Name: C:\Downloaded Web Sites\bywet.com\s\opensans\v17\mem5YaGs126MiZpBA-UNirkOXuhpOqc.woff2
+Content Type: font/woff2
+
+Uri: https://fonts.gstatic.com/s/opensans/v17/mem5YaGs126MiZpBA-UNirkOUehpOqc.woff2
+File Name: C:\Downloaded Web Sites\bywet.com\s\opensans\v17\mem5YaGs126MiZpBA-UNirkOUehpOqc.woff2
+Content Type: font/woff2
+
+Uri: https://fonts.gstatic.com/s/opensans/v17/mem5YaGs126MiZpBA-UNirkOXehpOqc.woff2
+File Name: C:\Downloaded Web Sites\bywet.com\s\opensans\v17\mem5YaGs126MiZpBA-UNirkOXehpOqc.woff2
+Content Type: font/woff2
+
+Uri: https://fonts.gstatic.com/s/opensans/v17/mem5YaGs126MiZpBA-UNirkOXOhpOqc.woff2
+File Name: C:\Downloaded Web Sites\bywet.com\s\opensans\v17\mem5YaGs126MiZpBA-UNirkOXOhpOqc.woff2
+Content Type: font/woff2
+
+Uri: https://fonts.gstatic.com/s/opensans/v17/mem5YaGs126MiZpBA-UNirkOUuhp.woff2
+File Name: C:\Downloaded Web Sites\bywet.com\s\opensans\v17\mem5YaGs126MiZpBA-UNirkOUuhp.woff2
+Content Type: font/woff2
+
+Uri: https://fonts.gstatic.com/s/opensans/v17/mem5YaGs126MiZpBA-UN7rgOX-hpOqc.woff2
+File Name: C:\Downloaded Web Sites\bywet.com\s\opensans\v17\mem5YaGs126MiZpBA-UN7rgOX-hpOqc.woff2
+Content Type: font/woff2
+
+Uri: https://fonts.gstatic.com/s/opensans/v17/mem5YaGs126MiZpBA-UN7rgOVuhpOqc.woff2
+File Name: C:\Downloaded Web Sites\bywet.com\s\opensans\v17\mem5YaGs126MiZpBA-UN7rgOVuhpOqc.woff2
+Content Type: font/woff2
+
+Uri: https://fonts.gstatic.com/s/opensans/v17/mem5YaGs126MiZpBA-UN7rgOXuhpOqc.woff2
+File Name: C:\Downloaded Web Sites\bywet.com\s\opensans\v17\mem5YaGs126MiZpBA-UN7rgOXuhpOqc.woff2
+Content Type: font/woff2
+
+Uri: https://fonts.gstatic.com/s/opensans/v17/mem5YaGs126MiZpBA-UN7rgOUehpOqc.woff2
+File Name: C:\Downloaded Web Sites\bywet.com\s\opensans\v17\mem5YaGs126MiZpBA-UN7rgOUehpOqc.woff2
+Content Type: font/woff2
+
+Uri: https://fonts.gstatic.com/s/opensans/v17/mem5YaGs126MiZpBA-UN7rgOXehpOqc.woff2
+File Name: C:\Downloaded Web Sites\bywet.com\s\opensans\v17\mem5YaGs126MiZpBA-UN7rgOXehpOqc.woff2
+Content Type: font/woff2
+
+Uri: https://fonts.gstatic.com/s/opensans/v17/mem5YaGs126MiZpBA-UN7rgOXOhpOqc.woff2
+File Name: C:\Downloaded Web Sites\bywet.com\s\opensans\v17\mem5YaGs126MiZpBA-UN7rgOXOhpOqc.woff2
+Content Type: font/woff2
+
+Uri: https://fonts.gstatic.com/s/opensans/v17/mem5YaGs126MiZpBA-UN7rgOUuhp.woff2
+File Name: C:\Downloaded Web Sites\bywet.com\s\opensans\v17\mem5YaGs126MiZpBA-UN7rgOUuhp.woff2
+Content Type: font/woff2
+
+Uri: https://fonts.gstatic.com/s/patuaone/v10/ZXuke1cDvLCKLDcimxB44_lu.woff2
+File Name: C:\Downloaded Web Sites\bywet.com\s\patuaone\v10\ZXuke1cDvLCKLDcimxB44_lu.woff2
+Content Type: font/woff2
+
+Uri: https://bywet.com/assets/images/banner-after.png
+File Name: C:\Downloaded Web Sites\bywet.com\assets\images\banner-after.png
+Content Type: image/png
+
+Uri: https://bywet.com/assets/images/blog-after.png
+File Name: C:\Downloaded Web Sites\bywet.com\assets\images\blog-after.png
+Content Type: image/png
+
+Uri: https://bywet.com/assets/images/social-meta-before.png
+File Name: C:\Downloaded Web Sites\bywet.com\assets\images\social-meta-before.png
+Content Type: image/png
+
+Uri: https://bywet.com/assets/images/author-bio-before.png
+File Name: C:\Downloaded Web Sites\bywet.com\assets\images\author-bio-before.png
+Content Type: image/png
+
+Uri: https://bywet.com/assets/images/footer_bg-2.png
+File Name: C:\Downloaded Web Sites\bywet.com\assets\images\footer_bg-2.png
+Content Type: image/png
+
+Uri: https://bywet.com/assets/images/volks.gif
+File Name: C:\Downloaded Web Sites\bywet.com\assets\images\volks.gif
+Content Type: image/gif
+
+Uri: https://bywet.com/assets/images/cyclist.gif
+File Name: C:\Downloaded Web Sites\bywet.com\assets\images\cyclist.gif
+Content Type: image/gif
+
+Uri: https://www.google.com/recaptcha/api.js
+File Name: C:\Downloaded Web Sites\bywet.com\recaptcha\api.js
+Content Type: text/javascript
+
+Uri: https://bywet.com/?page=1
+File Name: C:\Downloaded Web Sites\bywet.com\index-2.htm
+Content Type: text/html
+
+Uri: https://bywet.com/storage/u_111/0441d46d31f0c8c7aed7baa07e294a2a.jpeg
+File Name: C:\Downloaded Web Sites\bywet.com\storage\u_111\0441d46d31f0c8c7aed7baa07e294a2a.jpeg
+Content Type: image/jpeg
+
+Uri: https://bywet.com/storage/u_107/7656f594e3b84f607431957cc2329bf7.jpeg
+File Name: C:\Downloaded Web Sites\bywet.com\storage\u_107\7656f594e3b84f607431957cc2329bf7.jpeg
+Content Type: image/jpeg
+
+Uri: https://bywet.com/images/news/followers.jpg
+File Name: C:\Downloaded Web Sites\bywet.com\images\news\followers.jpg
+Content Type: image/jpeg
+
+Uri: https://bywet.com/images/news/activecanal.jpg
+File Name: C:\Downloaded Web Sites\bywet.com\images\news\activecanal.jpg
+Content Type: image/jpeg
+
+Uri: https://bywet.com/images/news/stylepost.jpg
+File Name: C:\Downloaded Web Sites\bywet.com\images\news\stylepost.jpg
+Content Type: image/jpeg
+
+Uri: https://bywet.com/images/news/writeabout.jpg
+File Name: C:\Downloaded Web Sites\bywet.com\images\news\writeabout.jpg
+Content Type: image/jpeg
+
+Uri: https://bywet.com/images/news/greeting.jpg
+File Name: C:\Downloaded Web Sites\bywet.com\images\news\greeting.jpg
+Content Type: image/jpeg
+
+Uri: https://bywet.com/images/news/subscribers.jpg
+File Name: C:\Downloaded Web Sites\bywet.com\images\news\subscribers.jpg
+Content Type: image/jpeg
+
+Uri: https://bywet.com/images/news/image.jpg
+File Name: C:\Downloaded Web Sites\bywet.com\images\news\image.jpg
+Content Type: image/jpeg
+
+Uri: https://bywet.com/images/news/sub.jpg
+File Name: C:\Downloaded Web Sites\bywet.com\images\news\sub.jpg
+Content Type: image/jpeg
+
+Uri: https://bywet.com/images/news/vacation.jpg
+File Name: C:\Downloaded Web Sites\bywet.com\images\news\vacation.jpg
+Content Type: image/jpeg
+
+Uri: https://bywet.com/images/news/hate.jpg
+File Name: C:\Downloaded Web Sites\bywet.com\images\news\hate.jpg
+Content Type: image/jpeg
+
+Uri: https://bywet.com/images/news/1.jpg
+File Name: C:\Downloaded Web Sites\bywet.com\images\news\1.jpg
+Content Type: image/jpeg
+
+Uri: https://bywet.com/images/news/dearfriends.jpg
+File Name: C:\Downloaded Web Sites\bywet.com\images\news\dearfriends.jpg
+Content Type: image/jpeg
+
+Uri: https://bywet.com/images/news/createchannel.jpg
+File Name: C:\Downloaded Web Sites\bywet.com\images\news\createchannel.jpg
+Content Type: image/jpeg
+
